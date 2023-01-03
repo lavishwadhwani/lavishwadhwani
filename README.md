@@ -11,7 +11,7 @@
   - Programming/Frameworks: **Python and SQL**
   - Data Visualization: **Tableau, PowerBI, Seaborn**
   - Analytical Techniques: **Machine Learning, Regression Analysis, Clustering, Statistics**
-  - Misc: **Business Intelligence, Management and leadership, Customer Service Experience**
+  - Misc: **Business Intelligence, Management and leadership, Customer Service**
 
 - 📫 How to reach me **lavish654@gmail.com**
 
