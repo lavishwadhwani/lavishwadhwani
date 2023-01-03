@@ -1,8 +1,6 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/699e4762225981.5a89af14d87a9.gif)
-
 <h1 align="center">Hi 👋, I'm Lavish</h1>
 <h3 align="center">MSc. Graduate from Durham University and aspiring Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/11/upgrade-premium-animation-dribbble.gif">
 
 - 🔭 I’m currently working on **Data Analysis Projects**
 
@@ -17,7 +15,7 @@
 
 - 📫 How to reach me **lavish654@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1SvqrdK02kDLjo_Z6eN5fjy1rDcL3A-g3/edit?usp=sharing&ouid=112077269165604029729&rtpof=true&sd=true](https://docs.google.com/document/d/1SvqrdK02kDLjo_Z6eN5fjy1rDcL3A-g3/edit?usp=sharing&ouid=112077269165604029729&rtpof=true&sd=true)
+- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1SvqrdK02kDLjo_Z6eN5fjy1rDcL3A-g3/edit?usp=sharing&ouid=112077269165604029729&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
