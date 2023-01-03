@@ -8,10 +8,10 @@
 
 - My skills include:
 
-  - Programming/Frameworks: Python and SQL
-  - Data Visualization: Tableau, PowerBI, Seaborn
-  - Analytical Techniques: Machine Learning, Regression Analysis, Clustering, Statistics
-  - Misc: Business Intelligence, Management and leadership, Customer Service Experience
+  - Programming/Frameworks: **Python and SQL**
+  - Data Visualization: **Tableau, PowerBI, Seaborn**
+  - Analytical Techniques: **Machine Learning, Regression Analysis, Clustering, Statistics**
+  - Misc: **Business Intelligence, Management and leadership, Customer Service Experience**
 
 - 📫 How to reach me **lavish654@gmail.com**
 
