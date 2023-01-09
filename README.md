@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lavish</h1>
-<h3 align="center">MSc. Graduate from Durham University and aspiring Data Analyst</h3>
+<h3 align="center">MSc. Graduate from Durham University and Certified Professional Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/11/upgrade-premium-animation-dribbble.gif">
 
 - 🔭 I’m currently working on **Data Analysis Projects**
