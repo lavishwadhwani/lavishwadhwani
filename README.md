@@ -2,14 +2,14 @@
 <h3 align="center">MSc. Graduate from Durham University and Certified Professional Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/11/upgrade-premium-animation-dribbble.gif">
 
-- 🔭 I’m currently working on **Data Analysis Projects**
+- 🔭 I’m currently working on **Data Analysis Projects and brushing up on data extraction, cleaning, wrangling and visulaization skills**
 
 - 💬 Ask me about **Data analysis and visualization**
 
 - My skills include:
 
-  - Programming/Frameworks: **Python and SQL**
-  - Data Visualization: **Tableau, PowerBI, Seaborn**
+  - Programming/Frameworks: **Python Libraries (Pandas, NumPy, Matplotlib) and SQL**
+  - Data Visualization: **Tableau, Microsoft Power BI, Seaborn**
   - Analytical Techniques: **Machine Learning, Regression Analysis, Clustering, Statistics**
   - Misc: **Business Intelligence, Management and leadership, Customer Service**
 
